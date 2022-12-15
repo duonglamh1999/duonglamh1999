@@ -4,5 +4,5 @@ I am a developer from OKC Oklahoma. I love building things, and solving the prob
 
 My current toolkit: React, Express, Flask, JavaScript, C#, Python, SQL, MySQL, Git.
 
-What I am learning: Node, Express, TypeScript, Vim
+What I am learning: Node, Express, TypeScript, Vim, AWS, Java
 
