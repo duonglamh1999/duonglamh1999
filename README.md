@@ -4,7 +4,7 @@ I am a developer from OKC Oklahoma. I love building things, and solving the prob
 
 Current role: Software Developer Apprentice 
 
-My current toolkit: React, Express, Flask, JavaScript, TypeScript, C#, Python, SQL, MySQL, Git.
+My current toolkit: React, Express, JavaScript, TypeScript, C#, .NET, Python, SQL, MySQL, Git.
 
-What I am learning: TypeScript, Vim, AWS, Java
+What I am learning: Raspberry Pico
 
